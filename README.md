@@ -2,6 +2,10 @@
 
 An automotive database and maintenance manual built with React, TypeScript, Vite, and Tailwind CSS. This app provides a detailed interface for car models, parts, maintenance schedules, diagnostics, and more, with a CRT visual style.
 
+## 🌐 Live Demo
+
+**[View the live application on GitHub Pages](https://makalin.github.io/auto-tech/)**
+
 ## Features
 
 - **Car Model Database:** Browse and select different car models.
@@ -43,6 +47,12 @@ npm run build
 - Preview the production build:
 ```bash
 npm run preview
+```
+
+### Deployment
+To deploy to GitHub Pages:
+```bash
+npm run deploy
 ```
 
 ### Linting
